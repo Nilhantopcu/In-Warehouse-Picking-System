@@ -59,6 +59,6 @@ Here, the first column represents the corridor number, and the second column rep
 ## Usage
 Find instructions on how to use the project in this section. For example:
 ```bash
-javac SShapeAlgorithm.java
-java SShapeAlgorithm list.txt
+javac S_Shape.java
+java S_Shape list.txt
 ```
