@@ -33,6 +33,10 @@ The Midpoint algorithm, implemented in Java, aims to reduce travel distance by t
 
 The Return algorithm, implemented in Java, aims to minimize travel distance by incorporating returns to a specific point during picking. For details, please refer to [ReturnAlgorithm.java](ReturnAlgorithm.java).
 
+![image](https://github.com/Nilhantopcu/In-Warehouse-Picking-System/assets/118310685/baaae3d0-0f91-4c48-97b2-fbe6a0640790)
+
+
+
 ## Data Set
 
 ### List.txt
