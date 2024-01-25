@@ -23,15 +23,15 @@ After providing a brief overview of warehouse management and systems, this proje
 
 ### S-Shape Picking System Algorithm
 
-The S-Shape algorithm, implemented in Java, is an optimized method for order picking in a specific warehouse. For details, please refer to [S_Shape.java](S_Shape.java).
+The S-Shape algorithm, implemented in Java, is an optimized method for order picking in a specific warehouse. For details, please refer to [heuristicmethod/S_Shape.java](heuristicmethod/S_Shape.java).
 
 ### Midpoint Picking System Algorithm
 
-The Midpoint algorithm, implemented in Java, aims to reduce travel distance by targeting the midpoint during order picking. For details, please refer to [MidPoint.java](MidPoint.java).
+The Midpoint algorithm, implemented in Java, aims to reduce travel distance by targeting the midpoint during order picking. For details, please refer to [heuristicmethod/MidPoint.java](heuristicmethod/MidPoint.java).
 
 ### Return Picking System Algorithm
 
-The Return algorithm, implemented in Java, aims to minimize travel distance by incorporating returns to a specific point during picking. For details, please refer to [Return.java](Return.java).
+The Return algorithm, implemented in Java, aims to minimize travel distance by incorporating returns to a specific point during picking. For details, please refer to [heuristicmethod/Return.java](heuristicmethod/Return.java).
 
 ![image](https://github.com/Nilhantopcu/In-Warehouse-Picking-System/assets/118310685/baaae3d0-0f91-4c48-97b2-fbe6a0640790)
 
@@ -41,7 +41,7 @@ The Return algorithm, implemented in Java, aims to minimize travel distance by i
 
 ### List.txt
 
-The [list.txt](list.txt) file contains sample picking lists for various scenarios. Each line represents the location of a product.
+The [heuristicmethod/list.txt](heuristicmethod/list.txt) file contains sample picking lists for various scenarios. Each line represents the location of a product.
 
 Example content:
 
